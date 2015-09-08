@@ -2,7 +2,7 @@
 layout: post
 title:  "The Core Strategy Tool"
 date:   2015-05-28 22:00:51
-categories: ux strategy
+categories: strategy
 ---
 {% highlight ruby %}
 Goals
