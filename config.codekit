@@ -98,15 +98,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_posts\/2015-09-20-present-this.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-09-20-present-this.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_posts\/2015-09-20-present-this.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
