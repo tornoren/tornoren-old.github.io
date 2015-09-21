@@ -4,14 +4,17 @@ title:  “Kroppens byggesteiner"
 date:   2015-09-21 12:54:51
 categories: nasjonalforeningen
 ---
+## Presentasjon
 <iframe src="//slides.com/nomaanahgharian/slack/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Karbohydrater
 
 
-Dette er det som gir deg …
-ris, pasta, brød
-## Proteiner'
+Dette er det som gir deg energi. Men pass på: Ikke ta til deg mer energi enn du trenger. 
+* ris, pasta, brød
+
+## Proteiner
+
 gir muskler, rolle i kroppen. 
 Matvarer: kylling, ku, kjøttdeig, dyrene vi spiser, egg
 ## Fett
