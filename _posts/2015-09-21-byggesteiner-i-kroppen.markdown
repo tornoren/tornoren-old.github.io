@@ -1,7 +1,7 @@
-—--
+---
 layout: post
 title:  “Kroppens byggesteiner"
-date:   2015-05-26 14:00:51
+date:   2015-09-21 12:54:51
 categories: nasjonalforeningen
 ---
 
