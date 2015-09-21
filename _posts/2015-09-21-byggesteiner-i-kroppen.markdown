@@ -4,8 +4,6 @@ title:  “Kroppens byggesteiner"
 date:   2015-09-21 12:54:51
 categories: nasjonalforeningen
 ---
-
-
 <iframe src="//slides.com/nomaanahgharian/slack/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Karbohydrater
