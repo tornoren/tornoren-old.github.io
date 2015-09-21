@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Kroppens byggesteiner"
+title:  Kroppens byggesteiner
 date:   2015-09-21 12:54:51
 categories: nasjonalforeningen
 ---
