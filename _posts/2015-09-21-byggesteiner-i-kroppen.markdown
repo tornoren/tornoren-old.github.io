@@ -9,14 +9,16 @@ categories: nasjonalforeningen
 
 ## Karbohydrater
 
-
 Dette er det som gir deg energi. Men pass på: Ikke ta til deg mer energi enn du trenger. 
-* ris, pasta, brød
+* ris
+* pasta
+* brød
 
 ## Proteiner
 
 gir muskler, rolle i kroppen. 
 Matvarer: kylling, ku, kjøttdeig, dyrene vi spiser, egg
+
 ## Fett
 Du må ha fett for å overleve. 
 
